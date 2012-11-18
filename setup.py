@@ -146,4 +146,5 @@ if __name__ == "__main__":
               'Operating System :: Unix',
               'Operating System :: MacOS'
              ],
+          install_requires=[ 'numpy' ]
       **extra_setuptools_args)
